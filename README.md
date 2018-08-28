@@ -2,7 +2,7 @@
 
 背景音樂
 
-恐怖
+# 恐怖
 Alien Invasion        https://freepd.com/horror.php
 Big Eyes              https://freepd.com/epic.php
 Lonely Mountain       https://freepd.com/epic.php
