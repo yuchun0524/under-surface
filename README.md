@@ -3,6 +3,17 @@
 ### 輕柔
 ##### Luminous Rain         https://incompetech.com/music/royalty-free/collections.html?collection=2&Search=Search
 ---
+### 緩慢神秘
+##### Colorless Aura        https://incompetech.com/music/royalty-free/collections.html?collection=36&Search=Search
+---
+### 緩慢悲傷
+##### Touching Story        https://incompetech.com/music/royalty-free/collections.html?collection=28&Search=Search
+### 歡快
+##### Cheery Monday         https://incompetech.com/music/royalty-free/collections.html?collection=17&Search=Search
+---
+### 中性
+##### Groundwork            https://incompetech.com/music/royalty-free/collections.html?collection=17&Search=Search
+---
 ### 恐怖
 ##### Alien Invasion        https://freepd.com/horror.php　　
 ##### Big Eyes              https://freepd.com/epic.php　　
